@@ -1,0 +1,10 @@
+Ruff - Linting and formatting
+PyTest - Testing
+MyPy - Type check
+Ty - Astral - Type check alt
+UV - dependency management
+Hatchling
+Precommit
+Docker - container option
+Pdocs - documentation - more research needed
+Mkdocs
